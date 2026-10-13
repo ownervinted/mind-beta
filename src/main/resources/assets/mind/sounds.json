@@ -1,0 +1,82 @@
+{
+  "kolokolnia_kill": {
+    "sounds": [
+      "mind:kolokolnia_kill"
+    ]
+  },
+  "moan1": {
+    "sounds": [
+      "mind:moan1"
+    ]
+  },
+  "moan2": {
+    "sounds": [
+      "mind:moan2"
+    ]
+  },
+  "moan3": {
+    "sounds": [
+      "mind:moan3"
+    ]
+  },
+  "moan4": {
+    "sounds": [
+      "mind:moan4"
+    ]
+  },
+  "module_disable": {
+    "sounds": [
+      "mind:module_disable"
+    ]
+  },
+  "module_enable": {
+    "sounds": [
+      "mind:module_enable"
+    ]
+  },
+  "off": {
+    "sounds": [
+      "mind:off"
+    ]
+  },
+  "on": {
+    "sounds": [
+      "mind:on"
+    ]
+  },
+  "crime": {
+    "sounds": [
+      "mind:crime"
+    ]
+  },
+  "metallic": {
+    "sounds": [
+      "mind:metallic"
+    ]
+  },
+  "welcome": {
+    "sounds": [
+      "mind:welcome"
+    ]
+  },
+  "enable": {
+    "sounds": [
+      "mind:enable"
+    ]
+  },
+  "disable": {
+    "sounds": [
+      "mind:disable"
+    ]
+  },
+  "error": {
+    "sounds": [
+      "mind:error"
+    ]
+  },
+  "soft": {
+    "sounds": [
+      "mind:soft"
+    ]
+  }
+}

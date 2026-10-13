@@ -1,0 +1,26 @@
+# Gradle and build output
+.gradle/
+build/
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Local Minecraft run directory
+run/
+logs/
+crash-reports/
+
+# Local machine settings
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mind",
+  "version": "${version}",
+  "name": "Mind",
+  "description": "beta",
+  "authors": ["You"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/mind/textures/capes/cape.png",
+  "environment": "client",
+  "entrypoints": {
+    "preLaunch": [
+      "mind.beta.util.mods.config.wave.WaveCapesConfigOverride"
+    ],
+    "client": [
+      "mind.beta.Initialization"
+    ]
+  },
+  "mixins": [
+    "mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}
